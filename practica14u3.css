@@ -1,0 +1,26 @@
+body{
+	background-color: rgb(240, 128, 128);
+	text-align:center;
+}
+
+h1{
+	color:white;
+	text-align:center;
+	font-family: cursive;
+}
+
+h2{
+	color:white;
+	text-align: center;
+	font-family: cursive;
+}
+.abril{
+
+	font-family: cursive;
+	font-size: 20px;
+	line-height: 20px;
+	font-weight: bold;
+	color: white;
+	font-style: normal;
+	text-align: center;
+}
